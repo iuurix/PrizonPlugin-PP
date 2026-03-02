@@ -1,0 +1,9 @@
+{
+  "id": "prizonplogin",
+  "name": "prizonplogin",
+  "version": "1.0",
+  "description": "A jail plugin for Velocity proxy",
+  "authors": ["MrAngelz"],
+  "dependencies": [],
+  "main": "me.iuur.majestic.prizonplogin.JailPlugin"
+}
